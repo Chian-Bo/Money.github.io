@@ -4,13 +4,13 @@ body {
 
 h1, h2, h3, h4, h5, h6{
 	font-family: Note Sans TC, sans-serif;
-	text-transform: mone;
+	text-transform: none;
 }
 
 .subheading{
 	font-family: Note Sans TC, sans-serif;
 	font-size: 1.2rem;
-	text-transform: mone;
+	text-transform: none;
 	letter-spacing: -0.05rem;
 }
 
