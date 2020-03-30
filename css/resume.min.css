@@ -24,6 +24,6 @@ section.resume-section .resume-item .resume-date{min-width:none}@media (min-widt
 bg-primary{background-color:#bd5d38!important}.text-primary{color:#4399a8!important;font-size:60px}a{color:#FF3333}a:active,a:focus,a:hover{color:#DAA520} 
 
 .bg-primary {
-	background-color: #4399a8!important;
-	background-image: url("squared-metal")
+	background-color: #4399a8;
+	background-image: url("https://www.transparenttextures.com/patterns/debut-light.png");
 }
