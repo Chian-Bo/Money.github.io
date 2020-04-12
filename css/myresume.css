@@ -18,6 +18,8 @@ h2, h3, h4, h5, h6{
 	font-size: 3rem;
 	line-height: 3rem;
 	letter-spacing: -0.05rem;
+	color: #4399a8!important;
+	font-family: Note Sans TC, sans-serif;
 }
 
 .bg-primary {
@@ -25,6 +27,3 @@ h2, h3, h4, h5, h6{
 	background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
 }
 
-.text-primary {
-	color: #4399a8!important;
-}
