@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6{
 	letter-spacing: -0.05rem;
 }
 
-h1 .text-primary {
+.text-primary {
 	font-size: 3rem;
 	line-height: 3rem;
 	letter-spacing: -0.05rem;
@@ -22,7 +22,7 @@ h1 .text-primary {
 
 .bg-primary {
 	background-color: #4399a8!important;
-	background-image: url("squared-metal")
+	background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
 }
 
 .text-primary {
