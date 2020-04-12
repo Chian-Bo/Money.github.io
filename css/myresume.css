@@ -27,3 +27,6 @@ h2, h3, h4, h5, h6{
 	background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
 }
 
+#sideNav .navbar-nav .nav-item .nav-link {
+	text-transform: none;
+}
