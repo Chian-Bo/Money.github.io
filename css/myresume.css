@@ -32,3 +32,11 @@ h1 .text-primary {
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
+
+div {
+	color:#191970;
+}
+
+body {
+background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+}
