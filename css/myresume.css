@@ -45,3 +45,7 @@ td {
 	border-bottom:1px solid #3f294a;
 	border:1px solid #2a5d44;
 }
+
+th, td {
+	text-align: center;
+}
