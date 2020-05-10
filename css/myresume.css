@@ -54,4 +54,5 @@ th, td {
 	display:flex;
 	flex-direction:row;
 	flex-wrap:wrap;
+	white-space:pre;
 }
