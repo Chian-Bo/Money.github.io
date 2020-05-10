@@ -51,6 +51,6 @@ th, td {
 }
 
 .mdfk{
-	display:flex:
+	display:flex;
 	flex-direction: row;
 }
